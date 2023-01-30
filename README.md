@@ -1,3 +1,5 @@
 # Demo
 
-It's just a git demo!!!
+start tracking the deeds and what to do...
+
+
