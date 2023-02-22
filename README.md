@@ -8,7 +8,8 @@ Road Map For Frontend Dev.
 2. JavaScript
 3. Version Control System(Git & GitHub)
 4. Responsive Web Design
-5. Bootstrapss
+5. Bootstraps
+
 
 
 
